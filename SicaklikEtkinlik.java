@@ -24,7 +24,7 @@ public class SicaklikEtkinlik {
             System.out.println("Yuzmeye gidebilirsiniz.");
         }
 
-
+        scanner.close();
 
     }
 
